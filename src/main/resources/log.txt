@@ -1,0 +1,2 @@
+2020-02-05 20:43:05 DEBUG Main:16 - In main method
+2020-02-05 20:44:00 DEBUG Main:16 - In main method
